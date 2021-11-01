@@ -20,6 +20,9 @@ body
 {
     font-family: "Red Hat Display", sans-serif;
     background-color: var(--Pale-blue);
+     background: url("pattern-background-mobile.svg") no-repeat center/cover ;
+ height: 439px;
+  width: 100vw;
     
 }
 button{
@@ -30,9 +33,7 @@ button{
   color: gray;
 }
 .bg__image{
-    background: url("pattern-background-mobile.svg") no-repeat center/cover ;
- height: 439px;
-  width: 100vw;
+   
 /*     height: 400px; */
     position: absolute;
 }
