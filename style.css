@@ -22,7 +22,7 @@ body
     background-color: var(--Pale-blue);
     
 }
-button{
+.button{
     font-family: inherit;
 }
 .bg__image{
