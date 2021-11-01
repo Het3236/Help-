@@ -24,6 +24,10 @@ body
 }
 .button{
     font-family: inherit;
+    border: none;
+  margin-top: 30px;
+  cursor: pointer;
+  color: gray;
 }
 .bg__image{
     background: url("pattern-background-mobile.svg") no-repeat center/cover ;
