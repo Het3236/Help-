@@ -27,8 +27,9 @@ button{
 }
 .bg__image{
     background: url("pattern-background-mobile.svg") no-repeat center/cover ;
-
-    height: 400px;
+ height: 439px;
+  width: 100vw;
+/*     height: 400px; */
     position: absolute;
 }
 /*Attribution  */
