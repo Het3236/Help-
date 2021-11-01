@@ -25,7 +25,8 @@ button{
     font-family: inherit;
 }
 .bg__image{
-    background-image: url("pattern-background-mobile.svg") no-repeat center/cover;
+    background-image: url("pattern-background-mobile.svg") ;
+/*         no-repeat center/cover; */
     height: 400px;
     position: absolute;
 }
