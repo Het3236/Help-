@@ -19,7 +19,7 @@ img{
 body
 {
     font-family: "Red Hat Display", sans-serif;
-    background-color: var(--pale-blue);
+    background-color: var(--Pale-blue);
 }
 button{
     font-family: inherit;
